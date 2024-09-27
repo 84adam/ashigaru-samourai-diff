@@ -1,4 +1,8 @@
-# ashigaru-samourai-diff
+# `ashigaru-samourai-diff` 
+
+## H/T, source: https://gist.github.com/johnongit/f62e478f76de951eeebc759be76bb2ad
+
+---
 
 # Code Analysis Report
 
